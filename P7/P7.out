@@ -1,0 +1,1295 @@
+# In Class Project
+# Jeff Milton
+# CS1030-5
+# 2020-11-05
+# Contributors: Jeffrey Milton, Yonas Getnet, Kyle, Garduino
+
+
+key: Article
+ Value: 30
+key: I
+ Value: 1
+key: Congress
+ Value: 31
+key: shall
+ Value: 115
+key: make
+ Value: 4
+key: no
+ Value: 9
+key: law
+ Value: 16
+key: respecting
+ Value: 1
+key: an
+ Value: 11
+key: establishment
+ Value: 1
+key: of
+ Value: 209
+key: religion
+ Value: 1
+key: or
+ Value: 81
+key: prohibiting
+ Value: 1
+key: the
+ Value: 288
+key: free
+ Value: 2
+key: exercise
+ Value: 1
+key: thereof
+ Value: 10
+key: abridging
+ Value: 1
+key: freedom
+ Value: 1
+key: speech
+ Value: 1
+key: press
+ Value: 1
+key: right
+ Value: 13
+key: people
+ Value: 7
+key: peaceably
+ Value: 1
+key: to
+ Value: 88
+key: assemble
+ Value: 3
+key: and
+ Value: 74
+key: petition
+ Value: 1
+key: Government
+ Value: 2
+key: for
+ Value: 40
+key: a
+ Value: 43
+key: redress
+ Value: 1
+key: grievances
+ Value: 1
+key: II
+ Value: 1
+key: A
+ Value: 2
+key: well
+ Value: 1
+key: regulated
+ Value: 1
+key: Militia
+ Value: 2
+key: being
+ Value: 2
+key: necessary
+ Value: 3
+key: security
+ Value: 1
+key: State
+ Value: 29
+key: keep
+ Value: 1
+key: bear
+ Value: 2
+key: Arms
+ Value: 1
+key: not
+ Value: 22
+key: be
+ Value: 55
+key: infringed
+ Value: 1
+key: III
+ Value: 1
+key: No
+ Value: 6
+key: Soldier
+ Value: 1
+key: in
+ Value: 54
+key: time
+ Value: 5
+key: peace
+ Value: 1
+key: quartered
+ Value: 1
+key: any
+ Value: 37
+key: house
+ Value: 1
+key: without
+ Value: 6
+key: consent
+ Value: 1
+key: Owner
+ Value: 1
+key: nor
+ Value: 13
+key: war
+ Value: 1
+key: but
+ Value: 5
+key: manner
+ Value: 3
+key: prescribed
+ Value: 1
+key: by
+ Value: 53
+key: IV
+ Value: 1
+key: The
+ Value: 25
+key: secure
+ Value: 1
+key: their
+ Value: 8
+key: persons
+ Value: 9
+key: houses
+ Value: 1
+key: papers
+ Value: 1
+key: effects
+ Value: 1
+key: against
+ Value: 6
+key: unreasonable
+ Value: 1
+key: searches
+ Value: 1
+key: seizures
+ Value: 1
+key: violated
+ Value: 1
+key: Warrants
+ Value: 1
+key: issue
+ Value: 3
+key: upon
+ Value: 5
+key: probable
+ Value: 1
+key: cause
+ Value: 2
+key: supported
+ Value: 1
+key: Oath
+ Value: 1
+key: affirmation
+ Value: 1
+key: particularly
+ Value: 1
+key: describing
+ Value: 1
+key: place
+ Value: 2
+key: searched
+ Value: 1
+key: things
+ Value: 1
+key: seized
+ Value: 1
+key: V
+ Value: 1
+key: person
+ Value: 18
+key: held
+ Value: 3
+key: answer
+ Value: 1
+key: capital
+ Value: 1
+key: otherwise
+ Value: 3
+key: infamous
+ Value: 1
+key: crime
+ Value: 4
+key: unless
+ Value: 7
+key: on
+ Value: 11
+key: presentment
+ Value: 1
+key: indictment
+ Value: 1
+key: Grand
+ Value: 1
+key: Jury
+ Value: 1
+key: except
+ Value: 3
+key: cases
+ Value: 1
+key: arising
+ Value: 1
+key: land
+ Value: 1
+key: naval
+ Value: 1
+key: forces
+ Value: 1
+key: when
+ Value: 4
+key: actual
+ Value: 1
+key: service
+ Value: 1
+key: War
+ Value: 1
+key: public
+ Value: 4
+key: danger
+ Value: 1
+key: subject
+ Value: 4
+key: same
+ Value: 4
+key: offence
+ Value: 1
+key: twice
+ Value: 2
+key: put
+ Value: 1
+key: jeopardy
+ Value: 1
+key: life
+ Value: 3
+key: limb
+ Value: 1
+key: compelled
+ Value: 1
+key: criminal
+ Value: 2
+key: case
+ Value: 6
+key: witness
+ Value: 1
+key: himself
+ Value: 1
+key: deprived
+ Value: 1
+key: liberty
+ Value: 2
+key: property
+ Value: 3
+key: due
+ Value: 2
+key: process
+ Value: 3
+key: private
+ Value: 1
+key: taken
+ Value: 3
+key: use
+ Value: 2
+key: just
+ Value: 1
+key: compensation
+ Value: 2
+key: VI
+ Value: 1
+key: In
+ Value: 3
+key: all
+ Value: 7
+key: prosecutions
+ Value: 1
+key: accused
+ Value: 1
+key: enjoy
+ Value: 1
+key: speedy
+ Value: 1
+key: trial
+ Value: 2
+key: impartial
+ Value: 1
+key: jury
+ Value: 3
+key: district
+ Value: 2
+key: wherein
+ Value: 3
+key: have
+ Value: 33
+key: been
+ Value: 9
+key: committed
+ Value: 1
+key: which
+ Value: 9
+key: previously
+ Value: 2
+key: ascertained
+ Value: 1
+key: informed
+ Value: 1
+key: nature
+ Value: 1
+key: accusation
+ Value: 1
+key: confronted
+ Value: 1
+key: with
+ Value: 2
+key: witnesses
+ Value: 2
+key: him
+ Value: 1
+key: compulsory
+ Value: 1
+key: obtaining
+ Value: 1
+key: his
+ Value: 12
+key: favor
+ Value: 1
+key: Assistance
+ Value: 1
+key: Counsel
+ Value: 1
+key: defence
+ Value: 1
+key: VII
+ Value: 1
+key: Suits
+ Value: 1
+key: at
+ Value: 8
+key: common
+ Value: 2
+key: where
+ Value: 1
+key: value
+ Value: 1
+key: controversy
+ Value: 1
+key: exceed
+ Value: 1
+key: twenty
+ Value: 1
+key: dollars
+ Value: 1
+key: preserved
+ Value: 1
+key: fact
+ Value: 1
+key: tried
+ Value: 1
+key: re-examined
+ Value: 1
+key: Court
+ Value: 1
+key: United
+ Value: 31
+key: States
+ Value: 44
+key: than
+ Value: 5
+key: according
+ Value: 2
+key: rules
+ Value: 1
+key: VIII
+ Value: 1
+key: Excessive
+ Value: 1
+key: bail
+ Value: 1
+key: required
+ Value: 2
+key: excessive
+ Value: 1
+key: fines
+ Value: 1
+key: imposed
+ Value: 1
+key: cruel
+ Value: 1
+key: unusual
+ Value: 1
+key: punishments
+ Value: 1
+key: inflicted
+ Value: 1
+key: IX
+ Value: 1
+key: enumeration
+ Value: 2
+key: Constitution
+ Value: 11
+key: certain
+ Value: 1
+key: rights
+ Value: 1
+key: construed
+ Value: 3
+key: deny
+ Value: 2
+key: disparage
+ Value: 1
+key: others
+ Value: 1
+key: retained
+ Value: 1
+key: X
+ Value: 1
+key: powers
+ Value: 9
+key: delegated
+ Value: 1
+key: prohibited
+ Value: 3
+key: it
+ Value: 7
+key: are
+ Value: 3
+key: reserved
+ Value: 1
+key: respectively
+ Value: 1
+key: XI
+ Value: 1
+key: Judicial
+ Value: 2
+key: power
+ Value: 10
+key: extend
+ Value: 1
+key: suit
+ Value: 1
+key: equity
+ Value: 1
+key: commenced
+ Value: 1
+key: prosecuted
+ Value: 1
+key: one
+ Value: 6
+key: Citizens
+ Value: 2
+key: another
+ Value: 1
+key: Subjects
+ Value: 1
+key: Foreign
+ Value: 1
+key: XII
+ Value: 1
+key: Electors
+ Value: 3
+key: meet
+ Value: 2
+key: respective
+ Value: 2
+key: states
+ Value: 4
+key: vote
+ Value: 11
+key: ballot
+ Value: 2
+key: President
+ Value: 78
+key: Vice-President
+ Value: 8
+key: whom
+ Value: 3
+key: least
+ Value: 3
+key: inhabitant
+ Value: 1
+key: state
+ Value: 2
+key: themselves
+ Value: 1
+key: they
+ Value: 8
+key: name
+ Value: 1
+key: ballots
+ Value: 2
+key: voted
+ Value: 5
+key: as
+ Value: 34
+key: distinct
+ Value: 2
+key: lists
+ Value: 2
+key: number
+ Value: 14
+key: votes
+ Value: 5
+key: each
+ Value: 7
+key: sign
+ Value: 1
+key: certify
+ Value: 1
+key: transmit
+ Value: 3
+key: sealed
+ Value: 1
+key: seat
+ Value: 2
+key: government
+ Value: 1
+key: directed
+ Value: 1
+key: Senate--The
+ Value: 1
+key: Senate
+ Value: 10
+key: presence
+ Value: 1
+key: House
+ Value: 9
+key: Representatives
+ Value: 14
+key: open
+ Value: 1
+key: certificates
+ Value: 1
+key: then
+ Value: 7
+key: counted--The
+ Value: 1
+key: having
+ Value: 5
+key: greatest
+ Value: 2
+key: if
+ Value: 10
+key: such
+ Value: 19
+key: majority
+ Value: 9
+key: whole
+ Value: 6
+key: appointed
+ Value: 4
+key: from
+ Value: 16
+key: highest
+ Value: 2
+key: numbers
+ Value: 3
+key: exceeding
+ Value: 1
+key: three
+ Value: 1
+key: list
+ Value: 2
+key: those
+ Value: 2
+key: choose
+ Value: 5
+key: immediately
+ Value: 2
+key: But
+ Value: 6
+key: choosing
+ Value: 1
+key: representation
+ Value: 3
+key: quorum
+ Value: 2
+key: this
+ Value: 15
+key: purpose
+ Value: 3
+key: consist
+ Value: 2
+key: member
+ Value: 3
+key: members
+ Value: 2
+key: two-thirds
+ Value: 4
+key: choice
+ Value: 6
+key: And
+ Value: 1
+key: whenever
+ Value: 3
+key: devolve
+ Value: 1
+key: them
+ Value: 4
+key: before
+ Value: 3
+key: fourth
+ Value: 1
+key: day
+ Value: 6
+key: March
+ Value: 1
+key: next
+ Value: 1
+key: following
+ Value: 2
+key: act
+ Value: 5
+key: death
+ Value: 4
+key: other
+ Value: 7
+key: constitutional
+ Value: 1
+key: disability
+ Value: 2
+key: --The
+ Value: 1
+key: two
+ Value: 3
+key: Senators
+ Value: 5
+key: constitutionally
+ Value: 1
+key: ineligible
+ Value: 1
+key: office
+ Value: 18
+key: eligible
+ Value: 1
+key: that
+ Value: 7
+key: XIII
+ Value: 1
+key: Section
+ Value: 33
+key: 1
+ Value: 12
+key: Neither
+ Value: 1
+key: slavery
+ Value: 1
+key: involuntary
+ Value: 1
+key: servitude
+ Value: 2
+key: punishment
+ Value: 1
+key: whereof
+ Value: 1
+key: party
+ Value: 1
+key: duly
+ Value: 1
+key: convicted
+ Value: 1
+key: exist
+ Value: 1
+key: within
+ Value: 12
+key: jurisdiction
+ Value: 4
+key: 2
+ Value: 12
+key: enforce
+ Value: 9
+key: article
+ Value: 17
+key: appropriate
+ Value: 8
+key: legislation
+ Value: 8
+key: XIV
+ Value: 1
+key: All
+ Value: 1
+key: born
+ Value: 1
+key: naturalized
+ Value: 1
+key: citizens
+ Value: 9
+key: reside
+ Value: 1
+key: abridge
+ Value: 1
+key: privileges
+ Value: 1
+key: immunities
+ Value: 1
+key: deprive
+ Value: 1
+key: its
+ Value: 3
+key: equal
+ Value: 2
+key: protection
+ Value: 1
+key: laws
+ Value: 2
+key: apportioned
+ Value: 1
+key: among
+ Value: 2
+key: several
+ Value: 7
+key: counting
+ Value: 1
+key: excluding
+ Value: 1
+key: Indians
+ Value: 1
+key: taxed
+ Value: 1
+key: election
+ Value: 7
+key: electors
+ Value: 6
+key: Vice
+ Value: 20
+key: Executive
+ Value: 1
+key: officers
+ Value: 3
+key: Legislature
+ Value: 1
+key: is
+ Value: 12
+key: denied
+ Value: 5
+key: male
+ Value: 3
+key: inhabitants
+ Value: 1
+key: twenty-one
+ Value: 4
+key: years
+ Value: 10
+key: age
+ Value: 4
+key: way
+ Value: 1
+key: abridged
+ Value: 5
+key: participation
+ Value: 1
+key: rebellion
+ Value: 4
+key: basis
+ Value: 1
+key: therein
+ Value: 2
+key: reduced
+ Value: 1
+key: proportion
+ Value: 1
+key: 3
+ Value: 5
+key: Senator
+ Value: 4
+key: Representative
+ Value: 2
+key: elector
+ Value: 1
+key: hold
+ Value: 1
+key: civil
+ Value: 1
+key: military
+ Value: 1
+key: under
+ Value: 2
+key: who
+ Value: 7
+key: oath
+ Value: 1
+key: officer
+ Value: 2
+key: legislature
+ Value: 3
+key: executive
+ Value: 5
+key: judicial
+ Value: 1
+key: support
+ Value: 1
+key: engaged
+ Value: 1
+key: insurrection
+ Value: 3
+key: given
+ Value: 1
+key: aid
+ Value: 2
+key: comfort
+ Value: 1
+key: enemies
+ Value: 1
+key: may
+ Value: 11
+key: remove
+ Value: 1
+key: 4
+ Value: 3
+key: validity
+ Value: 1
+key: debt
+ Value: 2
+key: authorized
+ Value: 1
+key: including
+ Value: 1
+key: debts
+ Value: 2
+key: incurred
+ Value: 2
+key: payment
+ Value: 1
+key: pensions
+ Value: 1
+key: bounties
+ Value: 1
+key: services
+ Value: 2
+key: suppressing
+ Value: 1
+key: questioned
+ Value: 1
+key: neither
+ Value: 2
+key: assume
+ Value: 2
+key: pay
+ Value: 2
+key: obligation
+ Value: 1
+key: claim
+ Value: 1
+key: loss
+ Value: 1
+key: emancipation
+ Value: 1
+key: slave
+ Value: 1
+key: obligations
+ Value: 1
+key: claims
+ Value: 1
+key: illegal
+ Value: 1
+key: void
+ Value: 1
+key: 5
+ Value: 2
+key: provisions
+ Value: 1
+key: XV
+ Value: 1
+key: account
+ Value: 3
+key: race
+ Value: 1
+key: color
+ Value: 1
+key: previous
+ Value: 1
+key: condition
+ Value: 1
+key: XVI
+ Value: 1
+key: lay
+ Value: 1
+key: collect
+ Value: 1
+key: taxes
+ Value: 1
+key: incomes
+ Value: 1
+key: whatever
+ Value: 1
+key: source
+ Value: 1
+key: derived
+ Value: 1
+key: apportionment
+ Value: 1
+key: regard
+ Value: 1
+key: census
+ Value: 1
+key: XVII
+ Value: 1
+key: composed
+ Value: 1
+key: elected
+ Value: 4
+key: six
+ Value: 1
+key: qualifications
+ Value: 1
+key: requisite
+ Value: 1
+key: most
+ Value: 1
+key: numerous
+ Value: 1
+key: branch
+ Value: 1
+key: legislatures
+ Value: 4
+key: When
+ Value: 1
+key: vacancies
+ Value: 2
+key: happen
+ Value: 1
+key: authority
+ Value: 1
+key: writs
+ Value: 1
+key: fill
+ Value: 2
+key: vacancies:
+ Value: 1
+key: Provided
+ Value: 1
+key: That
+ Value: 1
+key: empower
+ Value: 1
+key: temporary
+ Value: 1
+key: appointments
+ Value: 1
+key: until
+ Value: 5
+key: direct
+ Value: 1
+key: This
+ Value: 5
+key: amendment
+ Value: 7
+key: so
+ Value: 1
+key: affect
+ Value: 1
+key: term
+ Value: 6
+key: chosen
+ Value: 2
+key: becomes
+ Value: 2
+key: valid
+ Value: 1
+key: part
+ Value: 1
+key: XVIII
+ Value: 1
+key: After
+ Value: 1
+key: year
+ Value: 2
+key: ratification
+ Value: 2
+key: manufacture
+ Value: 1
+key: sale
+ Value: 1
+key: transportation
+ Value: 2
+key: intoxicating
+ Value: 2
+key: liquors
+ Value: 2
+key: importation
+ Value: 2
+key: into
+ Value: 2
+key: exportation
+ Value: 1
+key: territory
+ Value: 1
+key: beverage
+ Value: 1
+key: purposes
+ Value: 2
+key: hereby
+ Value: 3
+key: concurrent
+ Value: 1
+key: inoperative
+ Value: 4
+key: ratified
+ Value: 5
+key: provided
+ Value: 3
+key: seven
+ Value: 4
+key: date
+ Value: 4
+key: submission
+ Value: 4
+key: hereof
+ Value: 2
+key: XIX
+ Value: 1
+key: sex
+ Value: 1
+key: XX
+ Value: 1
+key: terms
+ Value: 4
+key: end
+ Value: 1
+key: noon
+ Value: 3
+key: 20th
+ Value: 1
+key: January
+ Value: 3
+key: 3d
+ Value: 2
+key: would
+ Value: 2
+key: ended
+ Value: 1
+key: had
+ Value: 1
+key: successors
+ Value: 1
+key: begin
+ Value: 2
+key: once
+ Value: 2
+key: every
+ Value: 1
+key: meeting
+ Value: 1
+key: appoint
+ Value: 2
+key: different
+ Value: 1
+key: If
+ Value: 3
+key: fixed
+ Value: 2
+key: beginning
+ Value: 2
+key: elect
+ Value: 6
+key: died
+ Value: 1
+key: become
+ Value: 2
+key: failed
+ Value: 1
+key: qualify
+ Value: 1
+key: qualified
+ Value: 3
+key: provide
+ Value: 4
+key: declaring
+ Value: 1
+key: selected
+ Value: 1
+key: accordingly
+ Value: 1
+key: devolved
+ Value: 2
+key: Sections
+ Value: 1
+key: take
+ Value: 3
+key: effect
+ Value: 2
+key: 15th
+ Value: 1
+key: October
+ Value: 1
+key: 6
+ Value: 1
+key: three-fourths
+ Value: 2
+key: XXI
+ Value: 1
+key: eighteenth
+ Value: 1
+key: repealed
+ Value: 1
+key: Territory
+ Value: 1
+key: possession
+ Value: 1
+key: delivery
+ Value: 1
+key: violation
+ Value: 1
+key: conventions
+ Value: 1
+key: XXII
+ Value: 1
+key: more
+ Value: 4
+key: has
+ Value: 1
+key: acted
+ Value: 1
+key: some
+ Value: 1
+key: was
+ Value: 2
+key: apply
+ Value: 1
+key: holding
+ Value: 3
+key: proposed
+ Value: 1
+key: prevent
+ Value: 1
+key: acting
+ Value: 2
+key: during
+ Value: 2
+key: operative
+ Value: 1
+key: remainder
+ Value: 1
+key: XXIII
+ Value: 1
+key: District
+ Value: 3
+key: constituting
+ Value: 1
+key: direct:
+ Value: 1
+key: entitled
+ Value: 1
+key: were
+ Value: 1
+key: event
+ Value: 1
+key: populous
+ Value: 1
+key: addition
+ Value: 1
+key: considered
+ Value: 1
+key: perform
+ Value: 1
+key: duties
+ Value: 9
+key: twelfth
+ Value: 1
+key: XXIV
+ Value: 1
+key: primary
+ Value: 1
+key: reason
+ Value: 1
+key: failure
+ Value: 1
+key: poll
+ Value: 1
+key: tax
+ Value: 2
+key: XXV
+ Value: 1
+key: removal
+ Value: 1
+key: resignation
+ Value: 1
+key: Whenever
+ Value: 3
+key: there
+ Value: 1
+key: vacancy
+ Value: 1
+key: nominate
+ Value: 1
+key: confirmation
+ Value: 1
+key: both
+ Value: 2
+key: Houses
+ Value: 2
+key: transmits
+ Value: 3
+key: pro
+ Value: 4
+key: tempore
+ Value: 4
+key: Speaker
+ Value: 4
+key: written
+ Value: 6
+key: declaration
+ Value: 6
+key: he
+ Value: 3
+key: unable
+ Value: 4
+key: discharge
+ Value: 5
+key: contrary
+ Value: 1
+key: discharged
+ Value: 1
+key: Acting
+ Value: 3
+key: either
+ Value: 2
+key: principal
+ Value: 2
+key: departments
+ Value: 1
+key: body
+ Value: 2
+key: Thereafter
+ Value: 1
+key: inability
+ Value: 1
+key: exists
+ Value: 1
+key: resume
+ Value: 2
+key: department
+ Value: 1
+key: four
+ Value: 1
+key: days
+ Value: 3
+key: Thereupon
+ Value: 1
+key: decide
+ Value: 1
+key: assembling
+ Value: 1
+key: forty-eight
+ Value: 1
+key: hours
+ Value: 1
+key: session
+ Value: 2
+key: after
+ Value: 2
+key: receipt
+ Value: 1
+key: latter
+ Value: 1
+key: determines
+ Value: 1
+key: continue
+ Value: 1
+key: XXVI
+ Value: 1
+key: eighteen
+ Value: 1
+key: older
+ Value: 1
+key: XXVII
+ Value: 1
+key: varying
+ Value: 1
+key: intervened
+ Value: 1

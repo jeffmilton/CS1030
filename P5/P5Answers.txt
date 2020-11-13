@@ -1,0 +1,11 @@
+# In Class Project
+# Jeff Milton
+# CS1030-5
+# 2020-10-20
+# Contributors: Jeffrey Milton, Yonas Getnet, Troy Davidson, Justin Nahayo
+
+
+Total number of lines in file: 1789
+Total of all numbers in file: 8842332
+Average of all the numbers: 4942.611514812745
+Median value of all the numbers: 4421166.0
